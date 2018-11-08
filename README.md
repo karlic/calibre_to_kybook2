@@ -37,4 +37,4 @@ KyBook 2 already supports downloading from Calibre using OPDS, but this script a
 4. Select Restore Database
 5. Select the `.json` file
 ##### On your server:
-5. Drag and drop the `Books` folder on to KyBook's Documents
+1. Drag and drop the `Books` folder on to KyBook's Documents
