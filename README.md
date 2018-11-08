@@ -27,7 +27,7 @@ KyBook 2 already supports downloading from Calibre using OPDS, but this script a
   * A `.json` file will be downloaded to `~/KyBook2/App/Backups`
   * The location `~/KyBook2/` can be changed by editing `BASE_DIR` in calibre_to_kybook2.py
 2. Connect the device to iTunes
-3. Select the device that has KyBook 2
+3. Select the device that has KyBook 2 installed
 4. Select `File Sharing`
 5. Select `KyBook` in the `Apps` column
 6. Drag and drop the `App` folder on to the `Documents` column
