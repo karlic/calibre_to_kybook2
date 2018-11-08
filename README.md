@@ -22,16 +22,18 @@ KyBook 2 already supports downloading from Calibre using OPDS, but this script a
 3. Select `Start wireless device connection`
 4. Select `OK`.
 5. In a terminal, run calibre_to_kybook2.py
+6. Wait for Calibre to connect to KyBook 2
+7. Select the books you wish to sync and select `Send to device`
   * Books will be downloaded to `~/KyBook2/Books`
   * Covers will be downloaded to `~/KyBook2/App/Images`
   * A `.json` file will be downloaded to `~/KyBook2/App/Backups`
   * The location `~/KyBook2/` can be changed by editing `BASE_DIR` in calibre_to_kybook2.py
-2. Connect the device to iTunes
-3. Select the device that has KyBook 2 installed
-4. Select `File Sharing`
-5. Select `KyBook` in the `Apps` column
-6. Drag and drop the `App` folder on to the `Documents` column
-7. Select `Replace` if prompted
+8. Connect the device to iTunes
+9. Select the device that KyBook 2 is installed on
+10. Select `File Sharing`
+11. Select `KyBook` in the `Apps` column
+12. Drag and drop the `App` folder on to the `Documents` column
+13. Select `Replace` if prompted
 ##### In KyBook 2:
 1. Select menu (three horizontal lines at top left)
 2. Select Settings
